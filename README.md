@@ -9,7 +9,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
@@ -32,13 +31,6 @@ Users should be able to:
 - Live Site URL: [Website](https://tofedev.github.io/profile-challenge/)
 
 ## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS
-- Flex-wrap
-
 ### What I learned
 
 I learned how to use the flex-wrap property.
@@ -46,4 +38,3 @@ I learned how to use the flex-wrap property.
 ## Author
 
 - Frontend Mentor - [@TofeDev](https://www.frontendmentor.io/profile/TofeDev)
-- Twitter - [@Tofe_Dev](https://www.twitter.com/Tofe_Dev)
